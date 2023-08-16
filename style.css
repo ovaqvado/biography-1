@@ -1,0 +1,19 @@
+body {
+    background: rgb(0, 0, 0)
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+p{
+    text-shadow: 0ic;
+}
+.main-text {
+    color: chartreuse;
+}
+
