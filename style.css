@@ -1,19 +1,16 @@
 body {
-    background: rgb(0, 0, 0)
+    background: rgb(71, 70, 70);
 }
 
 h1 {
-    color: rgb(255, 255, 255);
+    color: rgb(190, 124, 124);
 }
 
 p {
-    color: rgb(255, 255, 255);
+    color: rgb(255, 250, 182);
 }
 
-p{
-    text-shadow: 0ic;
-}
-.main-text {
-    color: chartreuse;
-}
 
+i {
+    color:rgb(192, 146, 93);
+}
